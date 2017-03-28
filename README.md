@@ -8,7 +8,7 @@ In computer science, a universal Turing machine (UTM) is a Turing machine that c
 ![utm-image01](https://cloud.githubusercontent.com/assets/26347107/24378748/82b9a0f6-135d-11e7-89b8-8a6dabff5ff5.png)
 
 ## Description of UTM v1.1
-Evergthing is available on this repository. I will explain it soon in details. Sorry about that.
+Everything is available on this project. I will explain it soon in details. Sorry about that.
 
 ## Licence
 Universal Turing Machine is free software: you can redistribute it and/or modify
