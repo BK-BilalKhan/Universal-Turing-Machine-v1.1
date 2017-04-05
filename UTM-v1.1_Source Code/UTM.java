@@ -1044,8 +1044,7 @@ public class UTM extends javax.swing.JFrame {
                 y = 0;
                 x++;
             }
-            //Close the input stream
-            br.close();
+            br.close(); //Close the input stream
         } catch (Exception e) {//Catch exception if any
             System.err.println(" \u25B6 Error: " + e.getMessage());
             return "Exception Error.";
